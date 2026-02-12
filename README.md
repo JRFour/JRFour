@@ -1,13 +1,14 @@
 # John Reale IV
 
-Systems Administrator specializing in enterprise-grade infrastructure, DevOps automation, and secure cloud architectures. Building production-ready home lab solutions with zero-trust security principles.
+Passionate infrastructure enthusiast building enterprise-grade home lab solutions with zero-trust security principles. Exploring the intersection of DevOps automation, container orchestration, and network architecture.
 
 ## 🔧 Core Competencies
 
 - **Cloud & DevOps**: AWS EKS, Kubernetes, Docker, Terraform, CI/CD, Ansible, ArgoCD
 - **Infrastructure**: VMware vSphere, Proxmox, ZFS storage, 10GbE networking
-- **Security**: Zero Trust models, pfSense firewalls, PKI with Vault, DISA STIG compliance
+- **Security**: Zero Trust models, pfSense firewalls, PKI with Vault, network segmentation
 - **Automation**: n8n workflows, Python/PowerShell scripting, GitOps practices
+- **Learning**: Continuous exploration of emerging technologies and best practices
 
 ## 🏗️ Featured Projects
 
@@ -44,7 +45,7 @@ virtualization: [VMware vSphere, Proxmox VE]
 storage: [ZFS, TrueNAS Scale]
 networking: [Cisco, pfSense, 10GbE]
 security_tools: [Vault, Keycloak, IDS/IPS, Cloudflare]
-compliance: [DISA STIG, Zero Trust, PKI]
+practices: [Zero Trust, PKI, Network Segmentation]
 ```
 
 ### Monitoring & Observability
@@ -57,62 +58,20 @@ automation: [Python, PowerShell, Bash]
 ## 📊 Infrastructure Metrics
 
 - **Network**: 9 VLANs, 10GbE core backbone
-- **Compute**: 50+ production VMs, 800+ total virtual machines managed
+- **Compute**: Multi-node clusters with 50+ production workloads
 - **Storage**: 96TB usable capacity with ZFS redundancy
 - **Services**: 15+ containerized applications with HA deployment
-- **Security**: 98% DISA STIG compliance achievement
 - **Automation**: 10+ n8n workflows, comprehensive IaC coverage
-
-## 🏢 Professional Experience
-
-**JCS Solutions** | *Systems Administrator - Virtualization* | 2025 - Present
-- Engineering VMware vSphere environments with 99.99% uptime
-- Maintaining DISA STIG compliance across 800+ VMs
-- Administering 500+ Dell thin clients using Wyse Management Suite
-
-**Booz Allen Hamilton** | *DevOps Engineer* | 2024 - 2025
-- Implementing CI/CD pipelines with GitHub Actions
-- Configuring secure EKS infrastructure with VPC/security groups
-- Deploying containerized applications with AWS Fargate
-
-**U.S. Army** | *Network Watch Officer & IT Manager* | 2017 - 2024
-- Leading network operations for 50,000+ users across DoD enterprises
-- Reducing incident resolution time by 15% through rapid fault isolation
-- Managing 12-person teams and achieving 30% certification improvement
-
-## 🎓 Education & Certifications
-
-**St. John's University** - BA, Philosophy
-
-**Technical Certifications:**
-- AWS Solutions Architect (2025)
-- Practical DevSecOps CCSE (2024)
-- CompTIA CySA+ (2023)
-- EC-Council CNDA & CEH (2023)
-- CompTIA Cloud+ & Network+ (2022)
-- CompTIA Security+ (2017)
+- **Security**: Zero Trust architecture with comprehensive monitoring
 
 ## 🔐 Security Focus
 
-Extensive experience in classified environments with:
-- Active TS/SCI clearance for intelligence community projects
+Passionate about implementing robust security architectures:
 - Zero Trust architecture implementation
 - PKI and certificate lifecycle management
-- COMSEC operations and cryptographic key management
-- DISA STIG compliance and security auditing
-
-## 📁 Repository Structure
-
-```
-JRFour/
-├── HomeCloud/                    # Infrastructure documentation
-│   ├── Notes/                   # Architecture guides & configs
-│   └── homelab-configs/         # Production configurations
-├── 0 Me/                        # Professional documentation
-│   ├── Resume.md               # ATS-optimized resume
-│   └── Job_Descriptions/       # Role analysis materials
-└── scripts/                     # Automation utilities
-```
+- Network segmentation and access control
+- Security monitoring and incident response
+- Best practices for secure infrastructure design
 
 ## 🤝 Collaboration & Open Source
 
@@ -127,14 +86,13 @@ JRFour/
 - 📧 [jrealefour@proton.me](mailto:jrealefour@proton.me)
 - 💼 [LinkedIn - John Reale IV](https://linkedin.com/in/john-reale-iv)
 - 🐙 [GitHub - JRFour](https://github.com/JRFour)
-- 📱 845-337-0890
 
 **Current Focus:**
 - Kubernetes security and multi-cluster deployments
 - Infrastructure automation and GitOps practices
 - Zero Trust network architecture in hybrid environments
-- DevSecOps pipeline optimization for cleared environments
+- DevSecOps pipeline optimization and security automation
 
 ---
 
-*Building secure, scalable infrastructure with a focus on compliance and operational excellence.*
+*Building secure, scalable infrastructure with a focus on learning and continuous improvement.*
